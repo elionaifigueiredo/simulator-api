@@ -14,6 +14,16 @@
       "nome": "Uruguai",
       "forca": 5,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
+    },
+    "mandante":{
+      "nome": "Italia",
+      "forca": 5,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/it.png"
+    },
+    "visitante":{
+      "nome": "França",
+      "forca": 5,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/fr.png"
     }
   }  
 ]
